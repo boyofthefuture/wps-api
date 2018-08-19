@@ -1,0 +1,23 @@
+{
+  "name": "wps-api",
+  "version": "1.0.0",
+  "description": "API for WPS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyofthefuture/wps-api.git"
+  },
+  "keywords": [
+    "WPS",
+    "API"
+  ],
+  "author": "EOS WPS Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyofthefuture/wps-api/issues"
+  },
+  "homepage": "https://github.com/boyofthefuture/wps-api#readme"
+}
